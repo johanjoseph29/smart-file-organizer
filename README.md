@@ -82,7 +82,3 @@ python main.py
 This project is in early development. Suggestions and improvements are welcome.
 
 ---
-
-## 📄 License
-
-MIT License
